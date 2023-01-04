@@ -170,7 +170,7 @@ section .wave.wave4{
         width: 100%;
         height: 50vh;
         flex-wrap: wrap;
-        resize: both;
+    
         overflow: auto;
     }
     .chain-img{
